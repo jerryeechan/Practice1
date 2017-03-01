@@ -1,10 +1,5 @@
 package ss.labs.pokemon;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -36,10 +31,9 @@ public class Main {
 
             //TODO 4: Tricky part!! get the value from the type counting map , add 1 and put it back (multiple line
 
-
         }
 
-        //TODO 5 print out the created pokemon information (about 4 lines
+        //TODO 5 print out the created pokemon information (multiple lines
 
         //TODO 6 print out how many type of pokemons in the pokedex
 
