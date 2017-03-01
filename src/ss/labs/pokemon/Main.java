@@ -15,7 +15,7 @@ public class Main {
 
         //TODO declare and initiate typeCountMap as a HashMap to count the number of each types of pokemon
 
-        System.out.println("Number of pokemon in the pokedex:");
+        System.out.println("Enter the Number of pokemon in the pokedex:");
         //TODO 0: scan the number of the testData from user input
 
         //TODO use a loop to read several input data
